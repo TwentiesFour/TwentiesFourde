@@ -99,11 +99,11 @@ h1, h2, h3, h4, h5, h6, figure {
   font-family: "Inconsolata", Arial, sans-serif;
 }
 .fh5co-nav #fh5co-logo a span {
-  color: #7380b6;
+  color: #fff;
 }
 .fh5co-nav a {
   padding: 5px 10px;
-  color: #fff;
+  color: #7380b6;
 }
 @media screen and (max-width: 768px) {
   .fh5co-nav .menu-1 {
