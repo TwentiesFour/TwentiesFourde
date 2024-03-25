@@ -112,7 +112,7 @@ button:focus {
 .btn:hover,
 a:hover {
   text-decoration: none;
-  color: #d05165; }
+  color: #3e0000; }
 
 .btn-group-lg > .btn, .btn-lg {
   padding: 1rem; }
@@ -138,12 +138,12 @@ a:hover {
   background: transparent; }
 
 .btn-link {
-  color: #f15e75; }
+  color: #3e0000; }
   .btn-link:hover {
     text-decoration: none; }
 
 .color-primary {
-  color: #f15e75; }
+  color: #3e0000; }
 
 /* Colours */
 .text-orange {
@@ -156,7 +156,7 @@ a:hover {
   color: #FC665F; }
 
 a {
-  color: #f15e75; }
+  color: #3e0000; }
 
 .fs-40 {
   font-size: 40px; }
@@ -242,8 +242,8 @@ a {
   border-top-right-radius: 5px;
   margin-bottom: 0;
   overflow: hidden;
-  min-height: 500px; }
-  @media (min-width: 1024px) {
+  min-height: 250px; }
+  @media (min-width: 10024px) {
     .jumbotron {
       min-height: 80vh; } }
   .jumbotron .container {
@@ -421,12 +421,12 @@ footer {
   height: 38px;
   font-weight: 300; }
   .form-control:focus {
-    border-color: #f15e75;
+    border-color: #3e0000;
     box-shadow: 0 0 0 0.2rem rgba(253, 101, 90, 0.25); }
 
 #gtco-contact-form form label.error {
   margin-bottom: 15px;
-  color: #f15e75;
+  color: #3e0000;
   font-size: 1.4rem; }
 
 .form-control::-webkit-input-placeholder {
