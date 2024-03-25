@@ -23,11 +23,10 @@ body {
     width: 100%;
     height: 100%;
     position: fixed;
-    opacity: .8;
     z-index: -1;
     background: #3e0000;
-    background: -webkit-linear-gradient(to right, #3e0000, #3e0000);
-    background: linear-gradient(to right, #3e0000, #3e0000); }
+    background: -webkit-linear-gradient;
+    background: linear-gradient; }
 
 .boxed-page {
   margin: 0 auto;
